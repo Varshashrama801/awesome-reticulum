@@ -10,6 +10,7 @@ List of awesome projects related to Reticulum Network.
 * [Utilities](#utilities)
 * [Flasher](#flasher)
 * [Transports](#transports)
+* [Nomad Network](#nomadnetwork)
 
 ## Network Stack
 
@@ -40,3 +41,7 @@ List of awesome projects related to Reticulum Network.
 ## Transports
 
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
+
+## Nomad Network
+
+* [randogoth / micron-blog](https://codeberg.org/randogoth/micron-blog.git) - Pelican Plug-In and Theme for publishing a site in Micron markup format for Nomad Network Nodes.
