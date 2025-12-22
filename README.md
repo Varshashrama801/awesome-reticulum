@@ -37,6 +37,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [torlando-tech / columba](https://github.com/torlando-tech/columba) - A simple messaging app for the Reticulum network on Android using Bluetooth LE over Reticulum.
 * [Ren / Browser](https://git.quad4.io/Ren/Browser) - A browser for the Reticulum Network.Target platforms: Web, Linux, Windows, MacOS, Android, iOS. Built using Flet.
 * [kc1awv/ lxst_phone](https://github.com/kc1awv/lxst_phone) - A peer-to-peer voice calling application built on the Reticulum Network Stack.
+* [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
 
 ## Transport and Network Interfaces
 
