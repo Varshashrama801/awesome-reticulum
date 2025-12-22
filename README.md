@@ -27,7 +27,6 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 
 * [markqvist / RNode_Firmware](https://github.com/markqvist/RNode_Firmware) - An RNode is an open, free and unrestricted digital radio transceiver. It enables anyone to send and receive any kind of data over both short and very long distances. RNodes can be used with many different kinds of programs and systems, but they are especially well suited for use with Reticulum.
 * [DanBeard / RETCON](https://github.com/DanBeard/RETCON) - RETCON enables quick creation of pre-configured Raspberry Pi images that automatically form resilient mesh networks once deployed.
-* [AkitaEngineering / ESP32-C3-Reticulum-Node](https://github.com/AkitaEngineering/ESP32-C3-Reticulum-Node) - This project provides firmware to turn an ESP32-C3 (or compatible ESP32 variant) into a multi-interface Reticulum Network Stack gateway node.It allows devices communicating via different physical layers (WiFi UDP, ESP-NOW, Serial, Bluetooth) to exchange Reticulum packets seamlessly.
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
 * [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
 
@@ -46,7 +45,6 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
 * [torlando-tech /  ble-reticulum](https://github.com/torlando-tech/ble-reticulum) - A Bluetooth Low Energy (BLE) interface for Reticulum Network Stack, enabling mesh networking over BLE without additional hardware on Linux devices.
 * [Reticulum-Interfaces/ RNS-over-HTTP](https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP) - A Reticulum interface that tunnels traffic over standard HTTP/S POST requests. This allows Reticulum to operate on networks where only web traffic is permitted, effectively bypassing firewalls, DPI, and other restrictions.
-* [AkitaEngineering / Akita-Dynamic-DDNS-for-Reticulum](https://github.com/AkitaEngineering/Akita-Dynamic-DDNS-for-Reticulum) - Akita DDNS is a robust, decentralized, and dynamic destination naming system (DDNS) built specifically for the Reticulum Network Stack.
 * [BeechatNetworkSystemsLtd / rns-tun-rs](https://github.com/BeechatNetworkSystemsLtd/rns-tun-rs) - Reticulum TUN adapter
 
 ## LXMF Bots
