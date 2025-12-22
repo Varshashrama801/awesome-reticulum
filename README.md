@@ -24,6 +24,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [attermann / microReticulum](https://github.com/attermann/microReticulum) - Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs.
 * [BeechatNetworkSystemsLtd / Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust.
 * [Networks / Reticulum-Go](https://git.quad4.io/Networks/Reticulum-Go) - A Go implementation of the Reticulum Network Stack.
+* [sergst83 / reticulum-network-stack](https://github.com/sergst83/reticulum-network-stack) - An implementation of Reticulum network stack in Java.
 
 ## Node Firmware
 
