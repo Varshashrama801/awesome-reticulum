@@ -7,7 +7,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Network Stack](#network-stack)
 * [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
-* [Transport and Network Interfaces](#transport-and-network-interfaces)
+* [Transports and Network Interfaces](#transports-and-network-interfaces)
 * [LXMF Bots](#lxmf-bots)
 * [Content Server](#content-server)
 * [Flasher](#flasher)
@@ -43,7 +43,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
 * [RNS-Things / reticulum-meshchatX](https://git.quad4.io/RNS-Things/reticulum-meshchatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
 
-## Transport and Network Interfaces
+## Transports and Network Interfaces
 
 * [LFManifesto / ReticulumHF](https://github.com/LFManifesto/ReticulumHF) - Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes.
 * [torlando-tech /  ble-reticulum](https://github.com/torlando-tech/ble-reticulum) - A Bluetooth Low Energy (BLE) interface for Reticulum Network Stack, enabling mesh networking over BLE without additional hardware on Linux devices.
@@ -51,6 +51,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [BeechatNetworkSystemsLtd / rns-tun-rs](https://github.com/BeechatNetworkSystemsLtd/rns-tun-rs) - Reticulum TUN adapter
 * [BeechatNetworkSystemsLtd / rns-vpn-rs](https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs) - Library and application for VPN client over Reticulum mesh network.
 * [BeechatNetworkSystemsLtd / rns-mavlink-rs](https://github.com/BeechatNetworkSystemsLtd/rns-mavlink-rs) - Bridges a flight controller connectd via serial port to a QGroundControl ground station over Reticulum mesh network.
+* [RFnexus / reticulum-over-hf](https://github.com/RFnexus/reticulum-over-hf) - Resources on how to configure Reticulum to work over HF radio.
 
 ## LXMF Bots
 
