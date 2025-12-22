@@ -21,6 +21,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [markqvist / LXMF](https://github.com/markqvist/LXMF) - A simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible.
 * [ion232 / reticulum-zig](https://github.com/ion232/reticulum-zig) - An implementation of Reticulum in Zig targeting operating systems and embedded devices.
 * [attermann / microReticulum](https://github.com/attermann/microReticulum) - Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs.
+* [BeechatNetworkSystemsLtd / Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust.
 
 ## Node Firmware
 
