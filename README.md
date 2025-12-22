@@ -72,6 +72,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 
 * [RNS-Things / rns-page-node](https://git.quad4.io/RNS-Things/rns-page-node) - A simple way to serve pages and files over the Reticulum network. Drop-in replacement for NomadNet nodes that primarily serve pages and files.
 * [fr33n0w / thechatroom](https://github.com/fr33n0w/thechatroom) - An IRC-style chat room built for Reticulum NomadNet, optimized for MeshChat v2.1+. Made By F.
+* [gralexey / lxmf-quick-chat](https://github.com/gralexey/lxmf-quick-chat) - A lightweight chat script for NomadNet nodes.
 
 ## Flasher
 
