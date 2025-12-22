@@ -8,10 +8,12 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Node Firmware](#node-firmware)
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Transports and Network Interfaces](#transports-and-network-interfaces)
+* [Network Tools](#network-tools)
 * [LXMF Bots](#lxmf-bots)
 * [NomadNet Applications](#nomadnet-applications)
 * [Flasher](#flasher)
 * [Micron Markdown Format](#micron-markdown-format)
+* [LoRa Tools](#lora-tools)
 * [Custom Devices](#custom-devices)
 * [Small Tools and Code Examples](#small-tools-and-code-examples)
 
@@ -56,6 +58,10 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [RFnexus / reticulum-over-hf](https://github.com/RFnexus/reticulum-over-hf) - Resources on how to configure Reticulum to work over HF radio.
 * [RFnexus / FreeDVInterface](https://github.com/RFnexus/FreeDVInterface) - A CustomInterface for Reticulum that provides a plug and play, cross-platform sound modem interface for HF radios using the FreeDV API. It supports VOX, serial, and Hamilb PTT.
 
+## Network Tools
+
+* [acehoss / rnsh](https://github.com/acehoss/rnsh) - An utility written in Python that facilitates shell sessions over Reticulum networks. It is based on the rnx utility that ships with Reticulum and aims to provide a similar experience to SSH.
+
 ## LXMF Bots
 
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
@@ -78,7 +84,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [RFnexus / micron-parser-js](https://github.com/RFnexus/micron-parser-js) - A JavaScript parser for Micron, a lightweight, terminal-friendly markdown format used in NomadNet and MeshChat.
 * [fr33n0w / micron-composer](https://github.com/fr33n0w/micron-composer) - A powerful WYSIWYG editor for creating NomadNet-ready .mu pages using the Micron markup language.
 
-## LoRa tools
+## LoRa Tools
 
 * [markqvist / LoRaMon](https://github.com/markqvist/LoRaMon) - This utility allows you to sniff LoRa networks with an RNode, and dump captured packets to the console or files.
 * [randogoth / lora-transmit](https://codeberg.org/randogoth/lora-transmit.git) - Simple commandline raw LoRa packet transmitter for RNode hardware.
