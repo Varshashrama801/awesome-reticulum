@@ -47,6 +47,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Reticulum-Interfaces/ RNS-over-HTTP](https://git.quad4.io/Reticulum-Interfaces/RNS-over-HTTP) - A Reticulum interface that tunnels traffic over standard HTTP/S POST requests. This allows Reticulum to operate on networks where only web traffic is permitted, effectively bypassing firewalls, DPI, and other restrictions.
 * [BeechatNetworkSystemsLtd / rns-tun-rs](https://github.com/BeechatNetworkSystemsLtd/rns-tun-rs) - Reticulum TUN adapter
 * [BeechatNetworkSystemsLtd / rns-vpn-rs](https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs) - Library and application for VPN client over Reticulum mesh network.
+* [BeechatNetworkSystemsLtd / rns-mavlink-rs](https://github.com/BeechatNetworkSystemsLtd/rns-mavlink-rs) - Bridges a flight controller connectd via serial port to a QGroundControl ground station over Reticulum mesh network.
 
 ## LXMF Bots
 
