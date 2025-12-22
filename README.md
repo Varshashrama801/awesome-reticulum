@@ -9,7 +9,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Messangers and Browsers](#messangers-and-browsers)
 * [Transports and Network Interfaces](#transports-and-network-interfaces)
 * [LXMF Bots](#lxmf-bots)
-* [Content Server](#content-server)
+* [NomadNet Applications](#nomadnet-applications)
 * [Flasher](#flasher)
 * [Micron Markdown Format](#micron-markdown-format)
 * [Custom Devices](#custom-devices)
@@ -62,9 +62,10 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [lxmfy / LXMFy](https://github.com/lxmfy/LXMFy) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
 * [lxmfy / ollama-bot](https://github.com/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
 
-## Content Server
+## NomadNet Applications
 
 * [RNS-Things / rns-page-node](https://git.quad4.io/RNS-Things/rns-page-node) - A simple way to serve pages and files over the Reticulum network. Drop-in replacement for NomadNet nodes that primarily serve pages and files.
+* [fr33n0w / thechatroom](https://github.com/fr33n0w/thechatroom) - An IRC-style chat room built for Reticulum NomadNet, optimized for MeshChat v2.1+. Made By F.
 
 ## Flasher
 
