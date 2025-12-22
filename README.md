@@ -57,6 +57,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [BeechatNetworkSystemsLtd / rns-mavlink-rs](https://github.com/BeechatNetworkSystemsLtd/rns-mavlink-rs) - Bridges a flight controller connectd via serial port to a QGroundControl ground station over Reticulum mesh network.
 * [RFnexus / reticulum-over-hf](https://github.com/RFnexus/reticulum-over-hf) - Resources on how to configure Reticulum to work over HF radio.
 * [RFnexus / FreeDVInterface](https://github.com/RFnexus/FreeDVInterface) - A CustomInterface for Reticulum that provides a plug and play, cross-platform sound modem interface for HF radios using the FreeDV API. It supports VOX, serial, and Hamilb PTT.
+* [R2AirVlad / Reticulum-Network-Over-Icom-D-star-Transceivers](https://github.com/R2AirVlad/Reticulum-Network-Over-Icom-D-star-Transceivers) - This custom RNS (reticulum.network) interface script enables transmission and reception of LXMF packets (MTU 500 bytes) through GMSK modems in Icom transceivers compatible with the D-star standard. 
 
 ## Network Tools
 
