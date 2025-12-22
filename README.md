@@ -12,6 +12,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [Content Server](#content-server)
 * [Flasher](#flasher)
 * [Publishing Tools](#publishing-tools)
+* [Custom Devices](#custom-devices)
 
 ## Network Stack
 
@@ -68,3 +69,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 
 * [markqvist / LoRaMon](https://github.com/markqvist/LoRaMon) - This utility allows you to sniff LoRa networks with an RNode, and dump captured packets to the console or files.
 * [randogoth / lora-transmit](https://codeberg.org/randogoth/lora-transmit.git) - Simple commandline raw LoRa packet transmitter for RNode hardware.
+
+## Custom Devices
+
+* [weltamdraht / ReticulumRasPiRelaySwitch](https://github.com/weltamdraht/ReticulumRasPiRelaySwitch) - This project switches on or off some electrical stuff if an according command is received through Reticulum's lxmf.
