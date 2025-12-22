@@ -49,6 +49,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [randogoth / lxmf-bot](https://codeberg.org/randogoth/lxmf-bot.git) - Python class to easily develop a simple Telethon style chatbot for the LXMF protocol.
 * [lxmfy / LXMFy](https://github.com/lxmfy/LXMFy) - Easily create LXMF bots for the Reticulum Network with this extensible framework.
 * [lxmfy / ollama-bot](https://github.com/lxmfy/ollama-bot) - Interact with Ollama LLMs using LXMFy bot framework.
+* [CyberKiska / lxmf-vanity-address-generator-py](https://github.com/CyberKiska/lxmf-vanity-address-generator-py) - A simple CLI tool to generate LXMF vanity addresses in Reticulum network.
 
 ## Content Server
 
