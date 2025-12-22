@@ -42,6 +42,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [kc1awv/ lxst_phone](https://github.com/kc1awv/lxst_phone) - A peer-to-peer voice calling application built on the Reticulum Network Stack.
 * [fr33n0w / rBrowser](https://github.com/fr33n0w/rBrowser) - A modern, web-based UI for exploring NomadNet nodes and pages over the Reticulum network.
 * [RNS-Things / reticulum-meshchatX](https://git.quad4.io/RNS-Things/reticulum-meshchatX) - A heavily customized fork of Reticulum MeshChat, any meaningful, stable and tested modifications will be submitted as a PR upstream.
+* [fr33n0w / lxmf-cli](https://github.com/fr33n0w/lxmf-cli) - Feature-Rich Terminal-based LXMF Messaging Client for Reticulum.
 
 ## Transports and Network Interfaces
 
