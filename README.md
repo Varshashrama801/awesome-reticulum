@@ -65,3 +65,4 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 ## LoRa tools
 
 * [markqvist / LoRaMon](https://github.com/markqvist/LoRaMon) - This utility allows you to sniff LoRa networks with an RNode, and dump captured packets to the console or files.
+* [randogoth / lora-transmit](https://codeberg.org/randogoth/lora-transmit.git) - Simple commandline raw LoRa packet transmitter for RNode hardware.
