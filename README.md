@@ -23,6 +23,7 @@ Hello! This is a list of awesome projects related to Reticulum Network. I add to
 * [ion232 / reticulum-zig](https://github.com/ion232/reticulum-zig) - An implementation of Reticulum in Zig targeting operating systems and embedded devices.
 * [attermann / microReticulum](https://github.com/attermann/microReticulum) - Port of Reticulum Network Stack to C++ specifically but not exclusively targeting 32-bit and better MCUs.
 * [BeechatNetworkSystemsLtd / Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs) - Reticulum Networking Stack implementation written in Rust.
+* [Networks / Reticulum-Go](https://git.quad4.io/Networks/Reticulum-Go) - A Go implementation of the Reticulum Network Stack.
 
 ## Node Firmware
 
